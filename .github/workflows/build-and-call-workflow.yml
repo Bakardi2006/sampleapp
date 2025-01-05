@@ -1,4 +1,4 @@
-name: Build and call .NET App
+name: Build and call Reusable Deploy
 
 on:
   workflow_dispatch:
